@@ -1,7 +1,11 @@
 package com.isetjb.ticitM1;
 
 import java.util.Arrays;
-
+/*
+ * 
+ * Hagtic
+ * 
+ */
 public class Magasin {
 	
 	int nbrE;
